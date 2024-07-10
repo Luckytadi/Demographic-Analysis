@@ -1,5 +1,16 @@
-# Demographic-Analysis
-### Conducted detailed demographic analysis using Python and Pandas on a dataset (adult.data.csv), extracting insights into education, income, and demographics.
-### Utilized Python, Pandas, and CSV data handling for statistical analysis and data visualization
-### Provided actionable insights into demographic trends and income disparities based on education and other factors, developing a robust Python script for data extraction, analysis, and visualization
-### Demonstrated proficiency in data analysis, statistical modeling, Python programming, data visualization, and problem-solving
+## Overview
+
+
+## Files
+- `reports/Zomato_Restaurant_Expansion_Strategy.xlsx`: The Excel dashboard file.
+- `data/Zomato_Data.xlsx`: The source data used for the report.
+
+## Preview
+![Zomato Restaurant Expansion Strategy Dashboard Screenshot](exports/Zomato_Restaurant_Expansion_Strategy.png)
+
+## How to Use
+1. Clone this repository.
+2. Open `reports/Zomato_Restaurant_Expansion_Strategy.xlsx with Microsoft Excel.
+
+## Data Sources
+- The Newton School provided the restaurants' data.
